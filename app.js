@@ -1,4 +1,4 @@
-const LIFF_ID = "YOUR_LIFF_ID";
+const LIFF_ID = "2007697664-1ReM78z0";
 const GAS_URL = "https://script.google.com/macros/s/AKfycbxj4m10YRPpvH5gBDImqgPi97j2S8p4srKGgmaQCMNMsKVPjvv7CZCUXknHdtb8N3tD/exec";
 
 async function main() {
