@@ -1,5 +1,5 @@
 const LIFF_ID = "YOUR_LIFF_ID";
-const GAS_URL = "YOUR_GAS_URL";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbxj4m10YRPpvH5gBDImqgPi97j2S8p4srKGgmaQCMNMsKVPjvv7CZCUXknHdtb8N3tD/exec";
 
 async function main() {
   await liff.init({ liffId: LIFF_ID });
